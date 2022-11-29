@@ -4,6 +4,10 @@
 
 Foi desenvolvido em Vue.js um sistema de pedidos de hamburguer onde o cliente cria sua prória combinação e esta mesma é enviada para a execução, onde o pedido é manipulado e acompanhado sua execução atraves de uma tela específica para a execução. 
 
+## 🎨 Layout
+
+![image](https://github.com/marianamoiolicapelari/burger-vue/blob/main/public/img/layout.png)
+
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
