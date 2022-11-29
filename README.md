@@ -1,6 +1,7 @@
 # Burger Vue
 
 ## 💻 Sobre o Projeto
+
 Foi desenvolvido em Vue.js um sistema de pedidos de hamburguer onde o cliente cria sua prória combinação e esta mesma é enviada para a execução, onde o pedido é manipulado e acompanhado sua execução atraves de uma tela específica para a execução. 
 
 ## 🛠 Tecnologias
@@ -14,11 +15,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 💡 Como executar o projeto
 
-**Você pode clonar o repositório inteiro, onde já estão os dois projetos, backend e frontend.
+*Você pode clonar o repositório inteiro.
 
-# Acessar no terminal a pasta onde se encontra o projeto Frontend.
-# rodar o comando npm install.
-## rodar o comando npm run serve.
+Acessar no terminal a pasta onde se encontra o projeto Frontend.</br>
+Rodar o comando npm install.</br>
+Rodar o comando npm run serve.
 
 ## 📝 Licença
 
