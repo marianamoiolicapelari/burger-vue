@@ -2,7 +2,7 @@
 
 ## 💻 Sobre o Projeto
 
-Foi desenvolvido em Vue.js um sistema de pedidos de hamburguer onde o cliente cria sua prória combinação e esta mesma é enviada para a execução, onde o pedido é manipulado e acompanhado sua execução atraves de uma tela específica para a execução. 
+Foi desenvolvido em Vue.js um sistema de pedidos de hamburguer onde o cliente cria sua própria combinação e o pedido é enviado para a execução, onde é possível acompanhar e alterar o andamento do mesmo.
 
 ## 🎨 Layout
 
